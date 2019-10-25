@@ -11,4 +11,6 @@ CREATE TABLE `zip_codes` (
   `area_code` char(3) default NULL,
   `county` char(27) default NULL
 ) ENGINE=MyISAM;
+
+You need to enter your own zip-codes.com FTP credentials into the script
 ```
